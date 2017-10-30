@@ -15,3 +15,5 @@ function johnLennonFacts(fact) {
     i = i+1
   }
 }
+
+console.log johnLennonFacts([x,c,v,b])
