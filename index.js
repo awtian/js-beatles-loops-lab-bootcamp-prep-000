@@ -1,6 +1,6 @@
 function theBeatlesPlay(name, inst) {
   var b = []
-  for (var i = 0; i < name.length - 1; i = i+1) {
+  for (var i = 1; i < 100; i++) {
     b.push name[i] +" plays "+ inst[i]
     return b
   }
