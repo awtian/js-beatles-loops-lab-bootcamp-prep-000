@@ -22,6 +22,6 @@ function iLoveTheBeatles(times) {
     array.push `I love the Beatles!`
     times++
   }
-  while (x < 15)
+  while (times < 15)
   return y
 }
