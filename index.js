@@ -16,11 +16,11 @@ function johnLennonFacts(fact) {
   }
   return fact
 }
-function iLoveTheBeatles(x) {
-  var y = []
+function iLoveTheBeatles(times) {
+  var array = []
   do {
-    y.push `I love the Beatles!`
-    x++
+    array.push `I love the Beatles!`
+    times++
   }
   while (x < 15)
   return y
