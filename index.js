@@ -11,9 +11,10 @@ function theBeatlesPlay(name, inst) {
 function johnLennonFacts(fact) {
     var i = 0
   while (i < 4) {
-    return fact[i] = fact[i] + "!!!"
+    fact[i] = fact[i] + "!!!"
     i = i+1
   }
+  return fact
 }
 
 var x = ["a","b","c","d"]
