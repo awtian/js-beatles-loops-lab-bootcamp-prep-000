@@ -10,7 +10,7 @@ function theBeatlesPlay(name, inst) {
 
 function johnLennonFacts(fact) {
     var i = 0
-  while (i < fact.length) {
+  while (i < 5) {
     return fact[i] = fact[i] + "!!!"
     i = i+1
   }
