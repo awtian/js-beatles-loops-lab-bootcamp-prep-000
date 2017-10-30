@@ -16,7 +16,12 @@ function johnLennonFacts(fact) {
   }
   return fact
 }
-
-var x = ["a","b","c","d"]
-console.log(johnLennonFacts(x))
-console.log(x.length)
+function iLoveTheBeatles(x) {
+  y = []
+  do {
+    y.push `I love the Beatles!`
+  }
+  while (x < 15)
+  x++
+  return y
+}
