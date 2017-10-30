@@ -18,3 +18,4 @@ function johnLennonFacts(fact) {
 
 var x = ["a","b","c","d"]
 console.log(johnLennonFacts(x))
+console.log(x.length)
