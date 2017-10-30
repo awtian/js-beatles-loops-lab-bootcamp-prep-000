@@ -23,6 +23,5 @@ function iLoveTheBeatles(x) {
     x++
   }
   while (x < 15)
-  x++
   return y
 }
