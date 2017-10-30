@@ -6,3 +6,16 @@ function theBeatlesPlay(name, inst) {
   }
   return b
 }
+
+
+function johnLennonFacts(fact) {
+  function jl() {
+    var i = 0
+    i < fact.length
+    i++
+  }
+  while (jl) {
+    return fact[i] = fact[i] + "!!!"
+    
+  }
+}
