@@ -16,4 +16,5 @@ function johnLennonFacts(fact) {
   }
 }
 
-console.log(johnLennonFacts([x,c,v,b]))
+var x = [a,b,c,d]
+console.log(johnLennonFacts(x))
